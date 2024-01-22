@@ -16,12 +16,13 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBrYLauGAqwFqtLI_-TUrzVoJU2Bj7KuRM",
-  authDomain: "najio-916fc.firebaseapp.com",
-  projectId: "najio-916fc",
-  storageBucket: "najio-916fc.appspot.com",
-  messagingSenderId: "245691497504",
-  appId: "1:245691497504:web:a3cfb02ae8d104346e1045"
+  apiKey: "AIzaSyDpvHJbE1qMubYzVaBZLVp1y1q_YaeyvPQ",
+  authDomain: "vikate-f8703.firebaseapp.com",
+  databaseURL: "https://vikate-f8703-default-rtdb.firebaseio.com",
+  projectId: "vikate-f8703",
+  storageBucket: "vikate-f8703.appspot.com",
+  messagingSenderId: "451617984130",
+  appId: "1:451617984130:web:0a713646b3b56f951e2e9b"
 };
 
 // Initialize Firebase
